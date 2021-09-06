@@ -1,0 +1,47 @@
+[
+	{
+		"Name":"Alex",
+		"Number":5,
+		"Groups":[5,4,3]
+	},
+	{
+		"Name":"Niko",
+		"Number":3,
+		"Groups":[2,5,3]
+	},
+	{
+		"Name":"Nikita",
+		"Number":4,
+		"Groups":[5,5,5]
+	},
+	{
+		"Name":"Misha",
+		"Number":4,
+		"Groups":[5,5,5]
+	},
+	{
+		"Name":"Sasha",
+		"Number":4,
+		"Groups":[4,4,3]
+	},
+	{
+		"Name":"Kiril",
+		"Number":1,
+		"Groups":[3,2,3]
+	},
+	{
+		"Name":"Petr",
+		"Number":8,
+		"Groups":[2,3,5]
+	},
+	{
+		"Name":"German",
+		"Number":1,
+		"Groups":[5,5,3]
+	},
+	{
+		"Name":"Van",
+		"Number":3,
+		"Groups":	[3,2,1]
+	}
+]
